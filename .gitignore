@@ -1,0 +1,20 @@
+# Ignoruj foldery tymczasowe Jupyter Notebooka
+.ipynb_checkpoints/
+
+# Ignoruj pliki cache Pythona
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Środowiska wirtualne
+env/
+venv/
+.venv/
+
+# Pliki systemowe
+.DS_Store
+Thumbs.db
+
+# Pliki środowiskowe
+.env
